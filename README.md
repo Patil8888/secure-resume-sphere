@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/adddf42b-3c5a-4e5f-80dd-6731e08c65ce
+**URL**:
 
 
 **Use your preferred IDE**
