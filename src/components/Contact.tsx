@@ -58,8 +58,8 @@ const Contact: React.FC = () => {
     {
       icon: <Linkedin className="w-5 h-5 text-cyber-green" />,
       label: 'LinkedIn',
-      value: 'akash-patil-30172243',
-      link: 'https://www.linkedin.com/in/akash-patil-30172243'
+      value: 'akash-patil-301722243',
+      link: 'https://www.linkedin.com/in/akash-patil-301722243'
     },
   ];
 
