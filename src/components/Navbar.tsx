@@ -45,7 +45,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
             <Shield className="w-6 h-6 text-cyber-green" />
-            <span className="font-mono font-bold text-xl text-cyber-green">Akash.Security</span>
+            <span className="font-mono font-bold text-xl text-cyber-green">Patil.Security</span>
           </Link>
 
           {/* Desktop Navigation */}
