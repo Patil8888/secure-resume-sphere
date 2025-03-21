@@ -5,7 +5,7 @@ import { Shield, Terminal, Database, Wifi, Server } from 'lucide-react';
 
 const About: React.FC = () => {
   const stats = [
-    { label: 'Years of Experience', value: '2+' },
+    { label: 'Years of Experience', value: '6 Months+' },
     { label: 'Vulnerabilities Found', value: '10+' },
     { label: 'CGPA', value: '7.81' },
     { label: 'Certifications', value: '5+' },
